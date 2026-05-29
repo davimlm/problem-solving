@@ -21,7 +21,7 @@ problem-solving/
 
 ## 📚 Fontes
 
-| Fonte | Linguagem | Problemas |
+| Fonte | Linguagem | Problemas |git push origin main
 |-------|-----------|-----------|
 | [Codeforces](./codeforces/) | C++ | 17 |
 | [Faculdade (UFABC)](./faculdade/) | Python | 84 |
