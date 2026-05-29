@@ -1,0 +1,19 @@
+# C++ binários
+*.o
+*.out
+*.exe
+a.out
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
