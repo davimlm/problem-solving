@@ -1,15 +1,22 @@
+<<<<<<< HEAD
 # C++ binários
+=======
+# Binários compilados
+>>>>>>> 930ad3b5e4493ddc1fa1cfa253a8a6fec80fa29e
 *.o
 *.out
 *.exe
 a.out
 
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.pyc
 .venv/
 venv/
 
+=======
+>>>>>>> 930ad3b5e4493ddc1fa1cfa253a8a6fec80fa29e
 # IDEs
 .vscode/
 .idea/
